@@ -1,2 +1,2 @@
 # inverse-kinematics
-Visualizing the kinametics analysis (trajectory, angular velocity, and angular acceleration) for a knee prosthetic design.
+Visualizing the kinemetics analysis (trajectory, angular velocity, and angular acceleration) for a knee prosthetic design using MATLAB.
